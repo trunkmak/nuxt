@@ -45,7 +45,7 @@
     "lodash-es": "4.17.21",
     "nitropack": "2.5.2",
     "unbuild": "latest",
-    "vite": "4.3.9",
+    "vite": "4.5.3",
     "vitest": "0.32.2",
     "webpack": "5.88.0"
   },
