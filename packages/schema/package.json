@@ -40,13 +40,13 @@
     "nitropack": "2.5.2",
     "unbuild": "latest",
     "unctx": "2.3.1",
-    "vite": "4.3.9",
+    "vite": "4.5.3",
     "vue": "3.3.4",
     "vue-bundle-renderer": "1.0.3",
     "vue-loader": "17.2.2",
     "vue-router": "4.2.2",
     "webpack": "5.88.0",
-    "webpack-dev-middleware": "6.1.1"
+    "webpack-dev-middleware": "6.1.2"
   },
   "dependencies": {
     "defu": "^6.1.2",
